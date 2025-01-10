@@ -13,5 +13,3 @@
 
 ## Moc Up
 ![image](https://github.com/user-attachments/assets/73121761-4059-4780-8fb1-5af8411110f4)
-
-
